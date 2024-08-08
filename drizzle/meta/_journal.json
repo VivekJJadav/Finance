@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1722598627205,
+      "tag": "0000_easy_chamber",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1722599345978,
+      "tag": "0001_chunky_winter_soldier",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1722754701991,
+      "tag": "0002_cultured_doctor_doom",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1722859456583,
+      "tag": "0003_swift_shinko_yamashiro",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1722952110207,
+      "tag": "0004_ambitious_wendell_rand",
+      "breakpoints": true
+    }
+  ]
+}

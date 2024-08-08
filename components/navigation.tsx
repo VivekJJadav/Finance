@@ -15,7 +15,7 @@ const routes = [
     label: "Overview",
   },
   {
-    href: "/transcations",
+    href: "/transactions",
     label: "Transactions",
   },
   {
@@ -26,10 +26,10 @@ const routes = [
     href: "/categories",
     label: "Categories",
   },
-  {
-    href: "/settings",
-    label: "Settings",
-  },
+  // {
+  //   href: "/settings",
+  //   label: "Settings",
+  // },
 ];
 
 export const Navigation = () => {
