@@ -20,7 +20,7 @@ export const useEditTransaction = (id?: string) => {
         json,
         param: { id },
       });
-      return await response;
+      return await response.json();
     },
     onSuccess: () => {
       toast.success("Transaction updated");
